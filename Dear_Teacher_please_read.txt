@@ -1,0 +1,5 @@
+Hello Sir,
+hope you are doing well
+basically there two files that has almost the same name:index0,html,
+it is use for the admin login,while the index.html is the main page.
+thank you for understanding.
